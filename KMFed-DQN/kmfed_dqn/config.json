@@ -1,0 +1,8 @@
+{
+  "schema_version": 2,
+  "status": "requires_external_risk_and_control_specification",
+  "data_sources": [
+    "https://www.cnemc.cn/",
+    "https://doi.org/10.5281/zenodo.15335450"
+  ]
+}
