@@ -1,6 +1,6 @@
 # KMFed-DQN
 
-Research code for water-quality forecasting, ordinary and dueling deep Q-learning, and cost–risk Pareto analysis. Forecasting and control are separate workflows. Federated training is simulated in a single Python process and provides neither differential privacy nor network isolation.
+Research code for water-quality forecasting, ordinary and dueling deep Q-learning, and cost–risk Pareto analysis. Forecasting and control are separate workflows.
 
 This distribution contains source code, examples, software tests, and documentation.
 
